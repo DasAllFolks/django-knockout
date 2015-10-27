@@ -7,4 +7,4 @@ This project is currently under active development.
 
 Copyright © 2015 Steven Das.
 
-Distributed under the MIT License.
+Distributed under the Apache 2.0 License.
